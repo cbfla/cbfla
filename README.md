@@ -1,6 +1,6 @@
 ### 🌱 Hello! I’m currently learning ...<br><br>
 
-:pencil2:간단 소개<br><br>
+:pencil2:수정중...<br><br>
 Git 주소 : https://github.com/cbfla<br>
 
 :pencil2: Notion <br>
