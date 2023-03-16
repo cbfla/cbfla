@@ -1,7 +1,7 @@
 ### 🌱 Hello! I’m currently learning ...<br><br>
 
 :pencil2:간단 소개<br><br>
-Git 주소 : https://github.com/sjinjin7/-portfolio-bookstore-<br>
+Git 주소 : https://github.com/cbfla<br>
 
 :pencil2: Notion <br>
 Project : https://www.notion.so/1b7924f5892247ef9b635c3110f3356a?pvs=4 <br>
